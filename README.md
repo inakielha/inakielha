@@ -1,5 +1,9 @@
-﻿# genafalconi
-<img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/portada.png"/>
+﻿# Genaro Falconi
+<p> 
+  Full Stack Developer y estoy en ultimo año de la carrera Administracion de Sistemas
+  
+  Soy una persona proactiva, que le gusta investigar y desarrollar nuevos negocios mirando a un mundo futuro. Aportar donde pueda y ser una mejor profesional cada dia
+</p>
 
 ---
 
@@ -32,18 +36,12 @@
     <a href="https://github.com/genafalconi">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
     </a>
-    <a href="https://www.linkedin.com/in/javier-balonga-39518a1b1/">
+    <a href="https://www.linkedin.com/in/genaro-falconi-886bb51a3/">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
     </a>
 </p>
 
 ---  
-
-<p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierBalonga&layout=compact" />
-</p>
-
----
 
 ## Algunos Proyectos:
 
@@ -85,43 +83,3 @@ Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
 
 #### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/AdminGoBew)  
 
----
----
-
-### Backgrounds
-Algunos fondos locos, más que nada para hacer una prueba sobre el efecto podía lograr con poco
-
----
-
-[<img alt="" src="https://github.com/JavierBalonga/Backgrounds/blob/master/preview.png" />](https://javierbalonga.github.io/Backgrounds/)
-
----
-
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Backgrounds/)  
-  
-- Puedes cambiar de fondo haciendo Clicks
-
----
----
-
-### Carousel-3D
-Uno de mis primeros proyectos, y relativamente simple
-
----
-
-[<img alt="" src="https://github.com/JavierBalonga/Carousel-3D/blob/master/preview.png" />](https://javierbalonga.github.io/Carousel-3D/)
-
----
-
-#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Carousel-3D/)  
-  
-- Se puede cambiar las imágenes a la izquierda o la derecha haciendo clic en las imágenes en los laterales
-- También hacer clic en una imagen varias posiciones a los lados hará que se coloque en el centro
-- Las imágenes cambiarán cada 10 segundos.
-
----
----
-
-<p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JavierBalonga&show_icons=true&count_private=true" />
-</p> 
