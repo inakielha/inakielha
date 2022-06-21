@@ -53,7 +53,7 @@ Una Landing page de Perros
 ---
 [<img alt="" src="https://github.com/genafalconi/Individual-Proyect-Henry-Dogs/blob/main/preview.png" />]
 ---
-#### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/Individual-Proyect-Henry-Dogs)
+#### Puedes verlo haciendo Click [Aqui](https://pi-dogs-8yybk8bcz-genafalconi.vercel.app/)
 
 ---  
 ---  
@@ -67,7 +67,7 @@ Proyecto final donde podemos comprar en nuestro e-commerce de tecnologia
 
 ---  
 
-#### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/FrontGoBew)  
+#### Puedes verlo haciendo Click [Aqui](https://gobeworiginal.netlify.app/)  
 
 ---  
 ---  
@@ -81,5 +81,18 @@ Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
 
 ---
 
-#### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/AdminGoBew)  
+#### Puedes verlo haciendo Click [Aqui](https://gobeworiginaladmin.netlify.app/login)  
 
+---
+---
+
+### GoBew Back
+Backend del proyecto de GoBew
+
+---  
+
+[<img alt="" src="https://github.com/genafalconi/AdminGoBew/blob/master/preview.png" />](https://github.com/genafalconi/BackGoBew)
+
+---
+
+#### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/BackGoBew)  
