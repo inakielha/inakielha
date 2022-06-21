@@ -91,8 +91,4 @@ Backend del proyecto de GoBew
 
 ---  
 
-[<img alt="" src="https://github.com/genafalconi/AdminGoBew/blob/master/preview.png" />](https://github.com/genafalconi/BackGoBew)
-
----
-
 #### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/BackGoBew)  
