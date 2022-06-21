@@ -40,8 +40,6 @@
 
 ## Algunos Proyectos:
 
----  
-
 ### Dogs-App 
 Una Landing page de Perros
 
