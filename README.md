@@ -22,11 +22,6 @@
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mocha.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/chai.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/webpack.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/arduino.png" width="30" height="30" align="center"/>
 </p>  
 
 ---  
