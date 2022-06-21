@@ -44,7 +44,7 @@
 Una Landing page de Perros
 
 ---
-[<img alt="" src="https://github.com/genafalconi/Individual-Proyect-Henry-Dogs/blob/main/preview.png" />]
+[<img alt="" src="https://github.com/genafalconi/Individual-Proyect-Henry-Dogs/blob/main/preview1.png" />]
 ---
 #### Puedes verlo haciendo Click [Aqui](https://pi-dogs-8yybk8bcz-genafalconi.vercel.app/)
 
