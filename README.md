@@ -37,21 +37,21 @@
 
 ---  
 
-## Algunos Proyectos:
+## Some Projects:
 
 ### Dogs-App 
-Una Landing page de Perros
+Dogs Landing page
 
 ---
 <img alt="" src="https://github.com/inakielha/PI-DOGS/blob/main/preview.png" />
 ---
-#### Puedes verlo haciendo Click [Aqui](https://practice-proyect-dogs-mazsoh4hz-inakielhaiek-gmailcom.vercel.app//)
+#### Click to see more [here](https://practice-proyect-dogs-mazsoh4hz-inakielhaiek-gmailcom.vercel.app//)
 
 ---  
 ---  
 
 ### GoBew Client
-Proyecto final donde podemos comprar en nuestro e-commerce de tecnologia
+Final Project of an E- commerce where you can Log in, buy and search for products
 
 ---  
 
@@ -59,13 +59,13 @@ Proyecto final donde podemos comprar en nuestro e-commerce de tecnologia
 
 ---  
 
-#### Puedes verlo haciendo Click [Aqui](https://gobeworiginal.netlify.app/)  
+#### Click to see more [here](https://gobeworiginal.netlify.app/)  
 
 ---  
 ---  
 
 ### GoBew Admin
-Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
+Final project where the owner of the E-commerce can manage and control the stock, products, sales etc.
 
 ---  
 
@@ -73,14 +73,14 @@ Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
 
 ---
 
-#### Puedes verlo haciendo Click [Aqui](https://gobeworiginaladmin.netlify.app/login)  
+#### Click to see more [here](https://gobeworiginaladmin.netlify.app/login)  
 
 ---
 ---
 
 ### GoBew Back
-Backend del proyecto de GoBew
+Final project Back-end
 
 ---  
 
-#### Puedes verlo haciendo Click [Aqui](https://github.com/inakielha/GoBewBack)  
+#### Click to see more [here](https://github.com/inakielha/GoBewBack)  
