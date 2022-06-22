@@ -1,8 +1,7 @@
-﻿# Genaro Falconi
+﻿# Iñaki Elhaiek
 <p> 
-  Full Stack Developer y estoy en ultimo año de la carrera Administracion de Sistemas
-  
-  Soy una persona proactiva, que le gusta investigar y desarrollar nuevos negocios mirando a un mundo futuro. Aportar donde pueda y ser una mejor profesional cada dia
+  Full Stack Developer
+  Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork and my main goal is to improve every day.
 </p>
 
 ---
@@ -28,10 +27,10 @@
 
 
 <p align="center">
-    <a href="https://github.com/genafalconi">
+    <a href="https://github.com/inakielha">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
     </a>
-    <a href="https://www.linkedin.com/in/genaro-falconi-886bb51a3/">
+    <a href= "https://www.linkedin.com/in/i%C3%B1aki-elhaiek/">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
     </a>
 </p>
@@ -44,9 +43,9 @@
 Una Landing page de Perros
 
 ---
-<img alt="" src="https://github.com/genafalconi/Individual-Proyect-Henry-Dogs/blob/main/preview1.png" />
+<img alt="" src="https://github.com/inakielha/PI-DOGS/blob/main/preview.png" />
 ---
-#### Puedes verlo haciendo Click [Aqui](https://pi-dogs-8yybk8bcz-genafalconi.vercel.app/)
+#### Puedes verlo haciendo Click [Aqui](https://practice-proyect-dogs-mazsoh4hz-inakielhaiek-gmailcom.vercel.app//)
 
 ---  
 ---  
@@ -56,7 +55,7 @@ Proyecto final donde podemos comprar en nuestro e-commerce de tecnologia
 
 ---  
 
-[<img alt="" src="https://github.com/genafalconi/FrontGoBew/blob/master/preview.png" />](https://github.com/genafalconi/FrontGoBew)
+[<img alt="" src="https://github.com/genafalconi/FrontGoBew/blob/master/preview.png" />](https://github.com/inakielha/GoBewFront)
 
 ---  
 
@@ -70,7 +69,7 @@ Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
 
 ---  
 
-[<img alt="" src="https://github.com/genafalconi/AdminGoBew/blob/master/preview.png" />](https://github.com/genafalconi/AdminGoBew)
+[<img alt="" src="https://github.com/genafalconi/AdminGoBew/blob/master/preview.png" />](https://github.com/inakielha/GoBewAdmin)
 
 ---
 
@@ -84,4 +83,4 @@ Backend del proyecto de GoBew
 
 ---  
 
-#### Puedes verlo haciendo Click [Aqui](https://github.com/genafalconi/BackGoBew)  
+#### Puedes verlo haciendo Click [Aqui](https://github.com/inakielha/GoBewBack)  
