@@ -45,6 +45,7 @@ Dogs Landing page
 ---
 <img alt="" src="https://github.com/inakielha/PI-DOGS/blob/main/preview.png" />
 ---
+
 #### Click to see more [here](https://practice-proyect-dogs-mazsoh4hz-inakielhaiek-gmailcom.vercel.app//)
 
 ---  
