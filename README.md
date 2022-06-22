@@ -1,7 +1,7 @@
 ﻿# Iñaki Elhaiek
 <p> 
-  Full Stack Developer
-  Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork and my main goal is to improve every day.
+  Full Stack Developer. <br>
+  Beyond my technical skills, I stand out for my soft skills such as perseverance, communication, effort and teamwork my main goal is to learn and improve every day.
 </p>
 
 ---
@@ -55,7 +55,7 @@ Proyecto final donde podemos comprar en nuestro e-commerce de tecnologia
 
 ---  
 
-[<img alt="" src="https://github.com/genafalconi/FrontGoBew/blob/master/preview.png" />](https://github.com/inakielha/GoBewFront)
+[<img alt="" src="https://github.com/inakielha/GoBewFront/blob/dev/preview.png" />](https://github.com/inakielha/GoBewFront)
 
 ---  
 
@@ -69,7 +69,7 @@ Proyecto final donde podemos administrar nuestro e-commerce de tecnologia
 
 ---  
 
-[<img alt="" src="https://github.com/genafalconi/AdminGoBew/blob/master/preview.png" />](https://github.com/inakielha/GoBewAdmin)
+[<img alt="" src="https://github.com/inakielha/GoBewAdmin/blob/dev/gobewadmin/Captura%20de%20pantalla%20(16).png" />](https://github.com/inakielha/GoBewAdmin)
 
 ---
 
