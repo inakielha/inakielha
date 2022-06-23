@@ -8,9 +8,7 @@
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/c++.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/python.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/javascript.png" width="30" height="30"  align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/html5.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/css.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
