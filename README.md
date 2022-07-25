@@ -11,7 +11,7 @@
   <img src="./assets/javascript.svg" width="30" height="30"  align="center"/>
   <img src="./assets/html.svg" width="30" height="30" align="center"/>
   <img src="./assets/css.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
+  <img src="./assets/react.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/redux.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/nodejs.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/express.png" width="30" height="30" align="center"/>
