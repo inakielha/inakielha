@@ -18,7 +18,9 @@
   <img src="./assets/Postgres.svg.png" width="30" height="30" align="center"/>
   <img src="./assets/mysql.svg" width="30" height="30" align="center"/>
   <img src="./assets/SQLite.jpg" width="30" height="30" align="center"/>
-  <img src="./assets/sequel.png" width="30" height="30" align="center"/>
+  <img src="./assets/sequelize.png" width="30" height="30" align="center"/>
+  <img src="./assets/mongo.png" width="30" height="30" align="center"/>
+
 </p>  
 
 ---  
