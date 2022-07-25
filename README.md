@@ -17,7 +17,7 @@
   <img src="./assets/express.svg" width="30" height="30" align="center"/>
   <img src="./assets/Postgres.svg.png" width="30" height="30" align="center"/>
   <img src="./assets/mysql.svg" width="30" height="30" align="center"/>
-  <img src="./assets/SQlite.jpg" width="30" height="30" align="center"/>
+  <img src="./assets/SQLite.jpg" width="30" height="30" align="center"/>
   <img src="./assets/sequelize.png" width="30" height="30" align="center"/>
 </p>  
 
