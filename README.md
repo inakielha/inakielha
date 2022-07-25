@@ -15,7 +15,7 @@
   <img src="./assets/redux.svg" width="30" height="30" align="center"/>
   <img src="./assets/node.svg" width="30" height="30" align="center"/>
   <img src="./assets/express.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/postgresql.png" width="30" height="30" align="center"/>
+  <img src="./assets/Postgres.svg.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sqlite.png" width="30" height="30" align="center"/>
   <img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/skills/sequelize.png" width="30" height="30" align="center"/>
